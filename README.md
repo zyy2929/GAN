@@ -9,7 +9,9 @@ Generator: UNet
 Discriminator: CNN
 
 ## Results
-<div align=center><img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/></div>
+<div align=center><img width="150" height="150" src="https://github.com/zyy2929/GAN/blob/main/results/generator_discriminator_139.jpg"/></div>
 Trained using both generator and discriminator after 14000 epochs
 <div align=center><img width="150" height="150" src="https://github.com/zyy2929/GAN/blob/main/results/generator_resized_299.jpg"/></div>
 Trained using generator only after 30000 epochs
+
+Training results to be added later...
