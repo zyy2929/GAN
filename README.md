@@ -12,4 +12,6 @@ Discriminator: CNN
 ![image](https://github.com/zyy2929/GAN/blob/main/results/generator_discriminator_139.jpg)
 Trained using both generator and discriminator after 14000 epochs
 
-![image]()
+![image](https://github.com/zyy2929/GAN/blob/main/results/generator_resized_299.jpg)
+
+Trained using generator only after 30000 epochs
